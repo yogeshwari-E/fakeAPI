@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "HI! Here Goes the example for ASYNC/AWAIT function"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "HI! Here Goes the example for ASYNC/AWAIT function",
       "postId": 1
     }
   ]
